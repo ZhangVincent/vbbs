@@ -1,0 +1,7 @@
+time="2023-07-29T11:17:09+08:00" level=error msg="测试异常"
+time="2023-07-29T11:19:54+08:00" level=error msg="测试异常"
+time="2023-07-29T16:21:00+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-07-29T16:51:25+08:00" level=error msg="发送邮件异常mail: missing '@' or angle-addr"
+time="2023-07-29T16:52:02+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-07-29T17:27:49+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-07-29T22:49:26+08:00" level=error msg="Put \"http://127.0.0.1:9200/bbsgo_topic_1/_doc/2\": dial tcp 127.0.0.1:9200: connectex: No connection could be made because the target machine actively refused it."

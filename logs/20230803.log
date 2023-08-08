@@ -1,0 +1,7 @@
+time="2023-08-03T17:07:01+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-08-03T17:14:02+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-08-03T17:15:03+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-08-03T17:41:53+08:00" level=error msg="Put \"http://centos:9200/vbbs_topic_1/_doc/4\": dial tcp 192.168.88.131:9200: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+time="2023-08-03T18:14:19+08:00" level=error msg="no available connection: no Elasticsearch node available"
+time="2023-08-03T22:17:33+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-08-03T22:25:14+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"

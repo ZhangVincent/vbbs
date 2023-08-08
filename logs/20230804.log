@@ -1,0 +1,3 @@
+time="2023-08-04T09:36:00+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
+time="2023-08-04T09:56:11+08:00" level=error msg="Put \"http://centos:9200/vbbs_topic_1/_doc/6\": dial tcp 192.168.88.131:9200: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+time="2023-08-04T10:11:23+08:00" level=error msg="failed to load content from `ip2region.xdb`: open xdb file `ip2region.xdb`: open ip2region.xdb: The system cannot find the file specified.\n"
